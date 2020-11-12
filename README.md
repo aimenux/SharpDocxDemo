@@ -7,7 +7,7 @@ Using SharpDocx to generate word documents based on templates
 > - Model (see [Company.cs](https://github.com/aimenux/SharpDocxDemo/blob/main/Lib/Models))
 > - Template (see [Company.cs.docx](https://github.com/aimenux/SharpDocxDemo/tree/main/Lib/Views))
 >
-> The demo is a command line tool taking one mandatory parameter : `output doc file path`
->> Type this command in your favorite terminal : *App.exe docxgen -o "path\filename.docx"*
+>> In order to run the demo, type the following command in your favorite terminal : 
+>> - **App.exe docxgen -o "path\filename.docx"**
 
 **`Tools`** : vs19, net core 3.1
