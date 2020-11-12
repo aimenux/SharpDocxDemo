@@ -4,8 +4,8 @@
 Using SharpDocx to generate word documents based on templates
 ```
 > In this demo, i m using the magic of [SharpDocx](https://github.com/egonl/SharpDocx) in order to generate word documents based on :
-> - Model (see `Company.cs`)
-> - Template (see `Company.cs.docx`)
+> - Model (see [Company.cs](https://github.com/aimenux/SharpDocxDemo/blob/main/Lib/Models))
+> - Template (see [Company.cs.docx](https://github.com/aimenux/SharpDocxDemo/tree/main/Lib/Views))
 >
 > SharpDocxDemo is a command line tool taking one parameter : `output doc file path`
 >> *App.exe docxgen -o "path\filename.docx"*
